@@ -1,0 +1,17 @@
+{
+    "name": "rohitsondigala/pack-echo",
+    "description": "My Custom Package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Rohit Sondigala",
+            "email": "rohitsondigala9229@example.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RohioSondigala\\PackEcho": "src/"
+        }
+    }
+}
