@@ -1,6 +1,6 @@
 <?php
  
-namespace Rohitsondigala\PackEcho;
+namespace PackEcho;
  
 class HelloWorld
 {
